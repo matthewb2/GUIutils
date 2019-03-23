@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ExeMaker\ExeMaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ExeMaker\ExeMaker\obj\Debug\ExeMaker.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ExeMaker\ExeMaker\obj\Debug\ExeMaker.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ExeMaker\ExeMaker\obj\Debug\ExeMaker.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ExeMaker\ExeMaker\bin\Debug\ExeMaker.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ExeMaker\ExeMaker\bin\Debug\ExeMaker.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ExeMaker\ExeMaker\obj\Debug\ExeMaker.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ExeMaker\ExeMaker\obj\Debug\ExeMaker.pdb
