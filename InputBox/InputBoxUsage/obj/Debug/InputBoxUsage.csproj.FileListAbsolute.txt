@@ -1,0 +1,35 @@
+c:\Users\jan.kouba\documents\visual studio 2012\Projects\InputBox\InputBoxUsage\bin\Debug\Properties\error.png
+c:\Users\jan.kouba\documents\visual studio 2012\Projects\InputBox\InputBoxUsage\bin\Debug\InputBoxUsage.exe
+c:\Users\jan.kouba\documents\visual studio 2012\Projects\InputBox\InputBoxUsage\bin\Debug\InputBoxUsage.pdb
+c:\Users\jan.kouba\documents\visual studio 2012\Projects\InputBox\InputBoxUsage\bin\Debug\InputBox.dll
+c:\Users\jan.kouba\documents\visual studio 2012\Projects\InputBox\InputBoxUsage\bin\Debug\InputBox.pdb
+c:\Users\jan.kouba\documents\visual studio 2012\Projects\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.csprojResolveAssemblyReference.cache
+c:\Users\jan.kouba\documents\visual studio 2012\Projects\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.Form1.resources
+c:\Users\jan.kouba\documents\visual studio 2012\Projects\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.Properties.Resources.resources
+c:\Users\jan.kouba\documents\visual studio 2012\Projects\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.csproj.GenerateResource.Cache
+c:\Users\jan.kouba\documents\visual studio 2012\Projects\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.exe
+c:\Users\jan.kouba\documents\visual studio 2012\Projects\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.pdb
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.exe
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.pdb
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBoxUsage\bin\Debug\Properties\error.png
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBoxUsage\bin\Debug\InputBoxUsage.exe
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBoxUsage\bin\Debug\InputBoxUsage.pdb
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.csprojResolveAssemblyReference.cache
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.Form1.resources
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.Properties.Resources.resources
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.csproj.GenerateResource.Cache
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBoxUsage\bin\Debug\MsgBox.dll
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBoxUsage\bin\Debug\MsgBox.pdb
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\bin\Debug\Properties\error.png
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\bin\Debug\InputBoxUsage.exe
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\bin\Debug\InputBoxUsage.pdb
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\bin\Debug\MsgBox.dll
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\bin\Debug\MsgBox.pdb
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.Form1.resources
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.Properties.Resources.resources
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.csproj.CopyComplete
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.exe
+C:\Users\Administrator\Downloads\InputBox\InputBoxUsage\obj\Debug\InputBoxUsage.pdb

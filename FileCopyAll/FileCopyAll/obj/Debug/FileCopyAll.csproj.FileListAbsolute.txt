@@ -6,3 +6,12 @@ C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FileCopyAll\FileCopyAll\obj\Debug\FileCopyAll.csproj.GenerateResource.Cache
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FileCopyAll\FileCopyAll\obj\Debug\FileCopyAll.exe
 C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FileCopyAll\FileCopyAll\obj\Debug\FileCopyAll.pdb
+C:\Users\Administrator\Downloads\GUIutils-master\FileCopyAll\FileCopyAll\bin\Debug\FileCopyAll.exe
+C:\Users\Administrator\Downloads\GUIutils-master\FileCopyAll\FileCopyAll\bin\Debug\FileCopyAll.pdb
+C:\Users\Administrator\Downloads\GUIutils-master\FileCopyAll\FileCopyAll\obj\Debug\FileCopyAll.Form1.resources
+C:\Users\Administrator\Downloads\GUIutils-master\FileCopyAll\FileCopyAll\obj\Debug\FileCopyAll.Properties.Resources.resources
+C:\Users\Administrator\Downloads\GUIutils-master\FileCopyAll\FileCopyAll\obj\Debug\FileCopyAll.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\GUIutils-master\FileCopyAll\FileCopyAll\obj\Debug\FileCopyAll.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\GUIutils-master\FileCopyAll\FileCopyAll\obj\Debug\FileCopyAll.exe
+C:\Users\Administrator\Downloads\GUIutils-master\FileCopyAll\FileCopyAll\obj\Debug\FileCopyAll.pdb
+C:\Users\Administrator\Downloads\GUIutils-master\FileCopyAll\FileCopyAll\bin\Debug\FileCopyAll.exe.config

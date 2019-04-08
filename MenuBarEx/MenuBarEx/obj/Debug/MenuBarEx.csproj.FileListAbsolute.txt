@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MenuBarEx\MenuBarEx\bin\Debug\MenuBarEx.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MenuBarEx\MenuBarEx\bin\Debug\MenuBarEx.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MenuBarEx\MenuBarEx\bin\Debug\MenuBarEx.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MenuBarEx\MenuBarEx\obj\Debug\MenuBarEx.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MenuBarEx\MenuBarEx\obj\Debug\MenuBarEx.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MenuBarEx\MenuBarEx\obj\Debug\MenuBarEx.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MenuBarEx\MenuBarEx\obj\Debug\MenuBarEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MenuBarEx\MenuBarEx\obj\Debug\MenuBarEx.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MenuBarEx\MenuBarEx\obj\Debug\MenuBarEx.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\MenuBarEx\MenuBarEx\obj\Debug\MenuBarEx.csprojAssemblyReference.cache

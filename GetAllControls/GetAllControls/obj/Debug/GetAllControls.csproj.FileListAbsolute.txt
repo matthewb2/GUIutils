@@ -1,0 +1,18 @@
+C:\Users\Administrator\source\repos\GetAllControls\GetAllControls\bin\Debug\GetAllControls.exe.config
+C:\Users\Administrator\source\repos\GetAllControls\GetAllControls\bin\Debug\GetAllControls.exe
+C:\Users\Administrator\source\repos\GetAllControls\GetAllControls\bin\Debug\GetAllControls.pdb
+C:\Users\Administrator\source\repos\GetAllControls\GetAllControls\obj\Debug\GetAllControls.Form1.resources
+C:\Users\Administrator\source\repos\GetAllControls\GetAllControls\obj\Debug\GetAllControls.Properties.Resources.resources
+C:\Users\Administrator\source\repos\GetAllControls\GetAllControls\obj\Debug\GetAllControls.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\GetAllControls\GetAllControls\obj\Debug\GetAllControls.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GetAllControls\GetAllControls\obj\Debug\GetAllControls.exe
+C:\Users\Administrator\source\repos\GetAllControls\GetAllControls\obj\Debug\GetAllControls.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GetAllControls\GetAllControls\bin\Debug\GetAllControls.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GetAllControls\GetAllControls\bin\Debug\GetAllControls.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GetAllControls\GetAllControls\bin\Debug\GetAllControls.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GetAllControls\GetAllControls\obj\Debug\GetAllControls.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GetAllControls\GetAllControls\obj\Debug\GetAllControls.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GetAllControls\GetAllControls\obj\Debug\GetAllControls.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GetAllControls\GetAllControls\obj\Debug\GetAllControls.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GetAllControls\GetAllControls\obj\Debug\GetAllControls.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GetAllControls\GetAllControls\obj\Debug\GetAllControls.pdb

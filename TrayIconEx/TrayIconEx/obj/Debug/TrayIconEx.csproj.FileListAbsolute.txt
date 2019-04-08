@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TrayIconEx\TrayIconEx\bin\Debug\TrayIconEx.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TrayIconEx\TrayIconEx\bin\Debug\TrayIconEx.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TrayIconEx\TrayIconEx\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TrayIconEx\TrayIconEx\obj\Debug\TrayIconEx.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TrayIconEx\TrayIconEx\obj\Debug\TrayIconEx.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TrayIconEx\TrayIconEx\obj\Debug\TrayIconEx.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TrayIconEx\TrayIconEx\obj\Debug\TrayIconEx.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\TrayIconEx\TrayIconEx\obj\Debug\TrayIconEx.pdb
+C:\Users\Administrator\Downloads\TrayIconEx\TrayIconEx\bin\Debug\TrayIconEx.exe
+C:\Users\Administrator\Downloads\TrayIconEx\TrayIconEx\bin\Debug\TrayIconEx.pdb
+C:\Users\Administrator\Downloads\TrayIconEx\TrayIconEx\obj\Debug\TrayIconEx.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\TrayIconEx\TrayIconEx\obj\Debug\TrayIconEx.Form1.resources
+C:\Users\Administrator\Downloads\TrayIconEx\TrayIconEx\obj\Debug\TrayIconEx.Properties.Resources.resources
+C:\Users\Administrator\Downloads\TrayIconEx\TrayIconEx\obj\Debug\TrayIconEx.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\TrayIconEx\TrayIconEx\obj\Debug\TrayIconEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TrayIconEx\TrayIconEx\obj\Debug\TrayIconEx.exe
+C:\Users\Administrator\Downloads\TrayIconEx\TrayIconEx\obj\Debug\TrayIconEx.pdb

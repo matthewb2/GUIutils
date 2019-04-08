@@ -1,0 +1,13 @@
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBox\bin\Debug\Properties\error.png
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBox\bin\Debug\MsgBox.dll
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBox\bin\Debug\MsgBox.pdb
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBox\obj\Debug\MsgBox.dll
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBox\obj\Debug\MsgBox.pdb
+C:\Users\jan.kouba\Documents\Visual Studio 2012\Projects\Knihovny\InputBox\InputBox\obj\Debug\MsgBox.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\InputBox\InputBox\bin\Debug\Properties\error.png
+C:\Users\Administrator\Downloads\InputBox\InputBox\bin\Debug\MsgBox.dll
+C:\Users\Administrator\Downloads\InputBox\InputBox\bin\Debug\MsgBox.pdb
+C:\Users\Administrator\Downloads\InputBox\InputBox\obj\Debug\MsgBox.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\InputBox\InputBox\obj\Debug\MsgBox.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\InputBox\InputBox\obj\Debug\MsgBox.dll
+C:\Users\Administrator\Downloads\InputBox\InputBox\obj\Debug\MsgBox.pdb

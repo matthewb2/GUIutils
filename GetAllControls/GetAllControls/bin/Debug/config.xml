@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CarCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cars>
+    <Make>This is a test</Make>
+    <Model>100</Model>
+  </cars>
+  <cars>
+    <Make>This is a test</Make>
+    <Model>130</Model>
+  </cars>
+  <cars>
+    <Make>This is a test</Make>
+    <Model>160</Model>
+  </cars>
+  <cars>
+    <Make>This is a test</Make>
+    <Model>190</Model>
+  </cars>
+  <cars>
+    <Make>This is a test</Make>
+    <Model>220</Model>
+  </cars>
+  <cars>
+    <Make>This is a test</Make>
+    <Model>250</Model>
+  </cars>
+  <cars>
+    <Make>This is a test</Make>
+    <Model>280</Model>
+  </cars>
+  <cars>
+    <Make>This is a test</Make>
+    <Model>310</Model>
+  </cars>
+</CarCollection>
