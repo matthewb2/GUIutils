@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
+using System.Drawing.Imaging;
 
 namespace TreeViewEx
 {
@@ -32,19 +33,38 @@ namespace TreeViewEx
 
         }
 
+        public byte[] ImageToByteArray(System.Drawing.Image imageIn)
+        {
+            using (var ms = new MemoryStream())
+            {
+                imageIn.Save(ms, imageIn.RawFormat);
+                return ms.ToArray();
+            }
+        }
+
         private void Form1_Load(object sender, EventArgs e)
         {
             FZipFormat mp1 = new FZipFormat();
 
 
             mp1.audio = Encoding.ASCII.GetBytes("This is the test string");
+            Image image1 = Image.FromFile("c:\\test.jpg");
+            
+
+            mp1.image = ImageToByteArray(image1);
             mp1.Save(@"c:\test2.flw");
 
             mp1.Load(@"c:\test2.flw");
 
+            MemoryStream ms = new MemoryStream(mp1.image);
+            Image img = Image.FromStream(ms);
+
+            img.Save(@"c:\out.jpg", ImageFormat.Png);
+
+            //bmp.Save(@"c:\out.jpg", ImageFormat.Jpeg);
 
             // From byte array to string
-                    string header = System.Text.Encoding.UTF8.GetString(mp1.header, 0, 2);
+            string header = System.Text.Encoding.UTF8.GetString(mp1.header, 0, 2);
             string body = System.Text.Encoding.UTF8.GetString(mp1.audio, 0, mp1.audio.Length);
            
 
@@ -68,6 +88,7 @@ namespace TreeViewEx
         public byte[] header;
         public byte[] audio;
         public byte[] video;
+        public byte[] image;
 
         public FZipFormat()
         {
@@ -91,7 +112,7 @@ namespace TreeViewEx
                     new BinaryWriter(File.Open(fileName, FileMode.Create)))
             {
                 //bw.Write(Header);
-                bw.Write(header.Concat(audio).ToArray());
+                bw.Write(header.Concat(image).ToArray());
             }
         }
         public void Load(string fileName)
@@ -100,8 +121,11 @@ namespace TreeViewEx
                     new BinaryReader(File.Open(fileName, FileMode.Open)))
             {
                 this.header = br.ReadBytes(4); // 4바이트 읽기
-                this.audio = br.ReadBytes(1024); 
-                
+                long length = new System.IO.FileInfo(fileName).Length;
+                int len = Convert.ToInt32(length);
+                this.image = new byte[len + 1];
+                this.image = br.ReadBytes(len+1);
+
             }
         }
 

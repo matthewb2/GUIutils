@@ -7,3 +7,16 @@ C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ListViewEx\ListView
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ListViewEx\ListViewEx\obj\Debug\ListViewEx.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ListViewEx\ListViewEx\obj\Debug\ListViewEx.exe
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ListViewEx\ListViewEx\obj\Debug\ListViewEx.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\bin\Debug\ListViewEx.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\bin\Debug\ListViewEx.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\bin\Debug\ListViewEx.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\obj\Debug\ListViewEx.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\obj\Debug\ListViewEx.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\obj\Debug\ListViewEx.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\obj\Debug\ListViewEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\obj\Debug\ListViewEx.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\obj\Debug\ListViewEx.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\ListViewEx\ListViewEx\obj\Debug\ListViewEx.pdb

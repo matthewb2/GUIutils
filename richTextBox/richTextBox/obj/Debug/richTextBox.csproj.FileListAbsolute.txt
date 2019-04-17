@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\richTextBox\richTextBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\richTextBox\richTextBox\obj\Debug\richTextBox.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\richTextBox\richTextBox\obj\Debug\richTextBox.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\richTextBox\richTextBox\obj\Debug\richTextBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\richTextBox\richTextBox\bin\Debug\richTextBox.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\richTextBox\richTextBox\bin\Debug\richTextBox.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\richTextBox\richTextBox\obj\Debug\richTextBox.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\richTextBox\richTextBox\obj\Debug\richTextBox.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\richTextBox\richTextBox\bin\Debug\richTextBox.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\richTextBox\richTextBox\bin\Debug\richTextBox.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\richTextBox\richTextBox\obj\Debug\richTextBox.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\richTextBox\richTextBox\obj\Debug\richTextBox.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\richTextBox\richTextBox\obj\Debug\richTextBox.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\richTextBox\richTextBox\obj\Debug\richTextBox.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\richTextBox\richTextBox\obj\Debug\richTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\richTextBox\richTextBox\obj\Debug\richTextBox.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\richTextBox\richTextBox\obj\Debug\richTextBox.pdb

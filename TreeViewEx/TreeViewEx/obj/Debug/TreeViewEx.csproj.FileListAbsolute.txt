@@ -15,3 +15,11 @@ C:\Users\Administrator\Downloads\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.cspr
 C:\Users\Administrator\Downloads\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.exe
 C:\Users\Administrator\Downloads\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.pdb
 C:\Users\Administrator\Downloads\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\TreeViewEx\TreeViewEx\bin\Debug\TreeViewEx.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\TreeViewEx\TreeViewEx\bin\Debug\TreeViewEx.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\TreeViewEx\TreeViewEx\obj\Debug\TreeViewEx.pdb

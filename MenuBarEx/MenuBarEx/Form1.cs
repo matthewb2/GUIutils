@@ -22,5 +22,12 @@ namespace MenuBarEx
             MessageBox.Show("ddd");
 
         }
+
+        private void 정보ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form2 frm = new Form2();
+            frm.Show();
+
+        }
     }
 }

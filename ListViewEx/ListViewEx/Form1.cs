@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
+using Newtonsoft.Json;
 
 namespace ListViewEx
 {
@@ -20,14 +22,35 @@ namespace ListViewEx
 
             listView1.View = View.Details;
 
+            List<Item> items;
+            using (StreamReader r = new StreamReader(@"C:\file.json"))
+            {
+                string json = r.ReadToEnd();
+                items = JsonConvert.DeserializeObject<List<Item>>(json);
+            }
+
             listView1.Columns.Add("Key");
             listView1.Columns.Add("Value");
 
             ListViewItem lvi1 = new ListViewItem();
 
-            lvi1.Text = "aaa";
-            lvi1.SubItems.Add("12321");
+            foreach (Item tt in items)
+            {
+                lvi1.Text = tt.light;
+                lvi1.SubItems.Add(tt.stamp);
+            }
+
+            
             listView1.Items.Add(lvi1);
         }
+    }
+    public class Item
+    {
+        public int millis;
+        public string stamp;
+        public DateTime datetime;
+        public string light;
+        public float temp;
+        public float vcc;
     }
 }

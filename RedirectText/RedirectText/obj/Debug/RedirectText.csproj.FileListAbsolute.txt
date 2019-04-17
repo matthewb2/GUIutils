@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RedirectText\RedirectText\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RedirectText\RedirectText\obj\Debug\RedirectText.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RedirectText\RedirectText\obj\Debug\RedirectText.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RedirectText\RedirectText\obj\Debug\RedirectText.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RedirectText\RedirectText\bin\Debug\RedirectText.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RedirectText\RedirectText\bin\Debug\RedirectText.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RedirectText\RedirectText\obj\Debug\RedirectText.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\RedirectText\RedirectText\obj\Debug\RedirectText.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\RedirectText\RedirectText\bin\Debug\RedirectText.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\RedirectText\RedirectText\bin\Debug\RedirectText.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\RedirectText\RedirectText\obj\Debug\RedirectText.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\RedirectText\RedirectText\obj\Debug\RedirectText.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\RedirectText\RedirectText\obj\Debug\RedirectText.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\RedirectText\RedirectText\obj\Debug\RedirectText.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\RedirectText\RedirectText\obj\Debug\RedirectText.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\RedirectText\RedirectText\obj\Debug\RedirectText.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GUIutils\RedirectText\RedirectText\obj\Debug\RedirectText.pdb
