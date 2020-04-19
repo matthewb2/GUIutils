@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\ReadExcelEx\ReadExcelEx\bin\Debug\ReadExcelEx.exe.config
+C:\Users\Administrator\source\repos\ReadExcelEx\ReadExcelEx\bin\Debug\ReadExcelEx.exe
+C:\Users\Administrator\source\repos\ReadExcelEx\ReadExcelEx\bin\Debug\ReadExcelEx.pdb
+C:\Users\Administrator\source\repos\ReadExcelEx\ReadExcelEx\obj\Debug\ReadExcelEx.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ReadExcelEx\ReadExcelEx\obj\Debug\ReadExcelEx.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ReadExcelEx\ReadExcelEx\obj\Debug\ReadExcelEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ReadExcelEx\ReadExcelEx\obj\Debug\ReadExcelEx.exe
+C:\Users\Administrator\source\repos\ReadExcelEx\ReadExcelEx\obj\Debug\ReadExcelEx.pdb
+C:\Users\Administrator\source\repos\ReadExcelEx\ReadExcelEx\obj\Debug\ReadExcelEx.Form1.resources
